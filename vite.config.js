@@ -9,4 +9,5 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
+  base: '/david2419.github.io/'
 })
