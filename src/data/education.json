@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Full Stack Development with MERN",
+      "organisation": "Massachusetts Institute of Technology",
+      "startDate": "",
+      "endDate": "June 2022",
+      "experiences": ["Mongo DB, Express, React, MongoDB" ],
+      "imageSrc": "education/mit (1).png"
+    },
+    {
+      "role": "Golang Bootcamp",
+      "organisation": "Labora.ar",
+      "startDate": "",
+      "endDate": "Aug, 2024",
+      "experiences": ["Golang, MySql, AWS"],
+      "imageSrc": "education/labora.png"
+    }
+  ]

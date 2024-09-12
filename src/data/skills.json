@@ -1,0 +1,41 @@
+
+[
+    
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Golang",
+      "imageSrc": "skills/golang.png"
+    }, 
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql (1).png"
+    },
+    {
+      "title": "AWS",
+      "imageSrc": "skills/amazon-aws (1).png"
+    }
+
+  ]

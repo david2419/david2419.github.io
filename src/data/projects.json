@@ -1,0 +1,26 @@
+[
+  {
+    "title": "REACT FRONTEND",
+    "imageSrc": "projects/movies.png",
+    "description": "Use MovieDB API, create an app with authentication to store visualization and comments to the movies",
+    "skills": ["REACT", "FIGMA"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/david2419/Labora-movies"
+  },  
+    {
+      "title": "MOVIES",
+      "imageSrc": "projects/movies.png",
+      "description": "Use MovieDB API, create an app with authentication to store visualization and comments to the movies",
+      "skills": ["Golang", "MySQL", "AWS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/david2419/Labora-movies"
+    },
+    {
+      "title": "EMAILS",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Golang", "MySQL", "AWS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/david2419/emails"
+    }
+  ]
